@@ -25,8 +25,8 @@
 <a href="https://github.com/alexeytereshchenko">
   <table>
   <tr>
-      <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexeytereshchenko&theme=radical&show_icons=true" /></td>
-      <td>  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexeytereshchenko&theme=radical&layout=compact" /></td>
+      <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexey-Tereshchenko&theme=radical&show_icons=true" /></td>
+      <td>  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexey-Tereshchenko&theme=radical&layout=compact" /></td>
   </tr>   
 </table>
 </a>
